@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <div style="text-align: center;">
+        <h1><b>PROJECT YVL OTW</b></h1>
+        <img src="project YVL.jpeg" height="500" alt="Project YVL Cover"
+             style="border: 4px solid black;">
+    </div>
+</body>
+</html>
